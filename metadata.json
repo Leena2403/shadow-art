@@ -1,0 +1,8 @@
+{
+  "name": "Stick Shadow Art Studio",
+  "description": "Generate physical stick shadow sculptures from image outlines and filled areas, with precise stick heights and printable dot-paper assembly templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
